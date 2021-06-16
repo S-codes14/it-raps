@@ -36,3 +36,4 @@ urllib3
 Werkzeug
 pronouncing
 flask-socketio
+lyricsgenius
