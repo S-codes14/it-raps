@@ -3,7 +3,7 @@
 ![Docker Build Status](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-***Doesn't work yet still in development***
+***Doesn't work yet still in development, I am going out taking a break from it but will soon come back***
 
 # It-Raps
 **[it-raps](it-raps)**
